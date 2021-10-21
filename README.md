@@ -1,7 +1,7 @@
 # Image Search App
 ## Made using: React, Redux, Unsplash API
 
-### :rocket: Live App: https://react-redux-image-search-app.herokuapp.com
+### :rocket: Live App: https://react-redux-image-search-app.netlify.app
 
 ### To run on local server
 #### Clone this repo: :heavy_dollar_sign:`git clone https://github.com/Eessh/react-redux-image-search-app.git`
