@@ -1,4 +1,7 @@
 # Image Search App
+
+![Screenshot](./screenshot.jpeg)
+
 ## Made using: [React](https://reactjs.org/), [Redux](https://react-redux.js.org/), [Unsplash API](https://unsplash.com/developers)
 
 ### :rocket: Live App: https://react-redux-image-search-app.netlify.app
